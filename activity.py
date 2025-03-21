@@ -26,7 +26,7 @@ class Dog(Animal):
 # Bird class inherits from Animal
 class Bird(Animal):
     def move(self):
-        print("Flying 🦅")
+        print("Flying ✈️")
 
 # Example usage
 car = Car()
@@ -34,8 +34,8 @@ bike = Bike()
 dog = Dog()
 bird = Bird()
 
-# Calling the move method on different objects.
+# Calling the move method on different objects
 car.move()  # Output: Driving 🚗
 bike.move()  # Output: Pedaling 🚲
 dog.move()  # Output: Running 🐕
-bird.move()  # Output: Flying 🦅
+bird.move()  # Output: Flying ✈️
