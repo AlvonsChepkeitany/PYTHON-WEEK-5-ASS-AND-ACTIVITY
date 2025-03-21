@@ -34,7 +34,7 @@ bike = Bike()
 dog = Dog()
 bird = Bird()
 
-# Calling the move method on different objects
+# Calling the move method on different objects.
 car.move()  # Output: Driving 🚗
 bike.move()  # Output: Pedaling 🚲
 dog.move()  # Output: Running 🐕
